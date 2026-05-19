@@ -1,0 +1,149 @@
+﻿,locus_tag,qseqid,product,gene,log2FoldChange,direction,bakta_locus,bakta_product,bakta_gene,bakta_strand,Label on volcano plot?,Cluster?,Transporter?,Transport gene cluster?
+1,GKGPCAPO_00055,q1,"GTP 3',8-cyclase",moaA_3,-2.102705711,Up in Mutant,ICMIMJ_00895,Radical SAM domain protein,,+,yes (other-yellow),yes,yes,yes
+2,GKGPCAPO_00056,q2,hypothetical protein,,-2.406063296,Up in Mutant,ICMIMJ_00896,TVP38/TMEM64 family membrane protein,,+,yes (other-yellow),yes,yes,yes
+3,GKGPCAPO_00057,q3,Chloride/fluoride channel protein,eriC,-1.46237525,Up in Mutant,ICMIMJ_00897,H(+)/Cl(-) exchange transporter ClcA,clcA,+,yes (other-yellow),yes,yes,yes
+4,GKGPCAPO_00058,q4,hypothetical protein,,-1.383354059,Up in Mutant,ICMIMJ_00898,hypothetical protein,,+,yes (other-yellow),yes,yes,yes
+5,GKGPCAPO_00158,q5,hypothetical protein,,1.059865605,Up in Wt,ICMIMJ_00998,BIG2 domain-containing protein,,-,,,,
+6,GKGPCAPO_00159,q6,hypothetical protein,,1.236162344,Up in Wt,ICMIMJ_00999,hypothetical protein,,-,,,,
+7,GKGPCAPO_00161,q7,hypothetical protein,,1.230895453,Up in Wt,ICMIMJ_01001,Protein-glutamine gamma-glutamyltransferase,,-,,,,
+8,GKGPCAPO_00214,q8,hypothetical protein,,-1.362786793,Up in Mutant,ICMIMJ_01054,"ABC-type sugar transport system, periplasmic component",,-,yes (orange),yes,yes,yes
+9,GKGPCAPO_00215,q9,Vitamin B12 import ATP-binding protein BtuD,btuD_1,-1.439996862,Up in Mutant,ICMIMJ_01055,Glutathione import ATP-binding protein GsiA,gsiA,-,yes (orange),yes,yes,yes
+10,GKGPCAPO_00216,q10,Oligopeptide transport ATP-binding protein OppD,oppD_1,-1.434474002,Up in Mutant,ICMIMJ_01056,Glutathione import ATP-binding protein GsiA,gsiA,-,yes (orange),yes,yes,yes
+11,GKGPCAPO_00217,q11,Nickel-binding periplasmic protein,nikA_1,-1.235274903,Up in Mutant,ICMIMJ_01057,Nickel-binding periplasmic protein,,-,yes (orange),yes,yes,yes
+12,GKGPCAPO_00218,q12,"putative D,D-dipeptide transport system permease protein DdpC",ddpC,-1.232481078,Up in Mutant,ICMIMJ_01058,nickel transporter permease,nikC,-,yes (orange),yes,yes,yes
+13,GKGPCAPO_00219,q13,Nickel transport system permease protein NikB,nikB_1,-1.177537048,Up in Mutant,ICMIMJ_01059,nickel ABC transporter permease,nikB,-,yes (orange),yes,yes,yes
+14,GKGPCAPO_00317,q14,Chromosome partition protein Smc,smc_1,1.454634467,Up in Wt,ICMIMJ_01157,LA_3659 family protein,,-,,,,
+15,GKGPCAPO_00383,q15,hypothetical protein,,1.278405802,Up in Wt,ICMIMJ_01223,Phospholipase C/D domain-containing protein,,-,,,,
+16,GKGPCAPO_00447,q16,hypothetical protein,,2.551248765,Up in Wt,ICMIMJ_01830,Ferric uptake regulation protein,,+,,,,
+17,GKGPCAPO_00466,q17,Multiple sugar-binding protein,msmE,1.215068336,Up in Wt,ICMIMJ_01849,Bacterial extracellular solute-binding protein,,+,,,,
+18,GKGPCAPO_00612,q18,hypothetical protein,,1.215088544,Up in Wt,ICMIMJ_02264,CwlT-like lysozyme domain-containing protein,,-,,,,
+19,GKGPCAPO_00653,q19,Enolase,eno_1,2.805209416,Up in Wt,ICMIMJ_02305,phosphopyruvate hydratase,eno,+,,,,
+20,GKGPCAPO_00666,q20,hypothetical protein,,-1.35277638,Up in Mutant,ICMIMJ_02318,Bacteriocin-associated integral membrane protein,,-,no,no,yes,yes
+21,GKGPCAPO_00667,q21,hypothetical protein,,-1.449299499,Up in Mutant,ICMIMJ_02319,Lactococcin 972 family bacteriocin,,-,no,no,yes,yes
+22,GKGPCAPO_00689,q22,hypothetical protein,,1.506906685,Up in Wt,ICMIMJ_02341,Prophage tail endopeptidase domain-containing protein,,+,,,,
+23,GKGPCAPO_00714,q23,NADP-specific glutamate dehydrogenase,gdh,-1.049670561,Up in Mutant,ICMIMJ_02366,NADP-specific glutamate dehydrogenase,gdhA,-,no,no,no,no
+24,GKGPCAPO_00728,q24,"transfer-messenger RNA, SsrA",ssrA,1.65300944,Up in Wt,NA,NA,NA,NA,,,,
+25,GKGPCAPO_00802,q25,hypothetical protein,,-1.391635202,Up in Mutant,ICMIMJ_02621,Carbohydrate ABC transporter substrate-binding protein,,+,yes (other-yellow),no,yes,no
+26,GKGPCAPO_00803,q26,Sensor histidine kinase RcsC,rcsC_4,-1.255350121,Up in Mutant,ICMIMJ_02622,Stage 0 sporulation A-like protein,,+,no,no,no,no
+27,GKGPCAPO_00819,q27,Aldehyde-alcohol dehydrogenase,adhE_1,-1.862548517,Up in Mutant,ICMIMJ_02638,bifunctional acetaldehyde-CoA/alcohol dehydrogenase,adhE,-,no,no,no,no
+28,GKGPCAPO_00838,q28,Putative electron transport protein YccM,yccM,1.391608627,Up in Wt,ICMIMJ_02657,Electron transport protein YccM,yccM,+,,,,
+29,GKGPCAPO_00861,q29,Riboflavin transporter RibU,ribU,1.485792457,Up in Wt,ICMIMJ_02680,Riboflavin transporter,,+,,,,
+30,GKGPCAPO_00867,q30,putative zinc-type alcohol dehydrogenase-like protein YjmD,yjmD_1,-1.27735552,Up in Mutant,ICMIMJ_02686,Threonine dehydrogenase and related Zn-dependent dehydrogenases,tdh,+,no,no,no,no
+31,GKGPCAPO_00928,q31,Polyol:NADP oxidoreductase,por,-2.673054614,Up in Mutant,ICMIMJ_02747,Mannitol dehydrogenase,mtlD,+,yes (pink),no,no,no
+32,GKGPCAPO_00929,q32,hypothetical protein,,-2.699844284,Up in Mutant,ICMIMJ_02748,Glyoxalase/bleomycin resistance/extradiol dioxygenase family protein,,+,no,no,no,no
+33,GKGPCAPO_00941,q33,putative oxidoreductase YjmC,yjmC_1,-1.728977234,Up in Mutant,ICMIMJ_02760,Putative oxidoreductase YjmC,yjmC,+,no,no,no,no
+34,GKGPCAPO_00942,q34,NAD-dependent malic enzyme,,-2.1579714,Up in Mutant,ICMIMJ_02761,NADP-dependent malic enzyme,sfcA,+,yes (green),no,no,no
+35,GKGPCAPO_00965,q35,Tyrosine recombinase XerC,xerC_1,-1.043478117,Up in Mutant,ICMIMJ_02893,Integrase,xerD,+,no,no,no,no
+36,GKGPCAPO_00997,q36,General stress protein CTC,ctc,1.012655862,Up in Wt,ICMIMJ_02925,50S ribosomal protein L25,,-,,,,
+37,GKGPCAPO_01023,q37,HTH-type transcriptional regulator MurR,murR,1.060224887,Up in Wt,ICMIMJ_02951,MurPQ operon repressor,,+,,,,
+38,GKGPCAPO_01060,q38,hypothetical protein,,1.072855867,Up in Wt,ICMIMJ_03030,NEAT domain-containing protein,,+,,,,
+39,GKGPCAPO_01113,q39,Cytosine permease,codB_1,-1.066286728,Up in Mutant,ICMIMJ_03083,Cytosine permease,,+,yes (other-yellow),no,yes,no
+40,GKGPCAPO_01121,q40,Tagatose-6-phosphate kinase,lacC_2,-1.643995195,Up in Mutant,ICMIMJ_03091,1-phosphofructokinase,pfkB,+,yes (red),no,no,no
+41,GKGPCAPO_01128,q41,hypothetical protein,,1.429203018,Up in Wt,ICMIMJ_03098,DUF2325 domain-containing protein,,+,,,,
+42,GKGPCAPO_01268,q42,HTH-type transcriptional repressor CytR,cytR_1,1.009551247,Up in Wt,ICMIMJ_03259,HTH-type transcriptional repressor CytR,cytR,+,,,,
+43,GKGPCAPO_01278,q43,Thiazole synthase,thiG,1.105831318,Up in Wt,ICMIMJ_03269,Thiazole synthase,thiG,+,,,,
+44,GKGPCAPO_01327,q44,Spore germination protein B1,gerBA,1.305955363,Up in Wt,ICMIMJ_03331,Spore germination protein A1,,+,,,,
+45,GKGPCAPO_01419,q45,hypothetical protein,,-1.215545647,Up in Mutant,ICMIMJ_03433,type I site-specific deoxyribonuclease,,-,no,no,no,no
+46,GKGPCAPO_01420,q46,hypothetical protein,,-1.365221814,Up in Mutant,ICMIMJ_03434,hypothetical protein,,-,no,no,no,no
+47,GKGPCAPO_01421,q47,hypothetical protein,,-1.063192888,Up in Mutant,ICMIMJ_03435,Polymerase/histidinol phosphatase N-terminal domain-containing protein,,-,no,no,no,no
+48,GKGPCAPO_01428,q48,"Fumarate hydratase class I, anaerobic",fumB,1.675596465,Up in Wt,ICMIMJ_03442,Fe-S-containing hydro-lyase,fumA,-,yes (purple),yes,no,no
+49,GKGPCAPO_01429,q49,L(+)-tartrate dehydratase subunit alpha,ttdA_1,1.615842566,Up in Wt,ICMIMJ_03443,fumarate hydratase,,-,yes (purple),yes,no,no
+50,GKGPCAPO_01430,q50,8-methylmenaquinol:fumarate reductase flavoprotein subunit,sdhA_3,1.647457694,Up in Wt,ICMIMJ_03444,Succinate dehydrogenase flavoprotein subunit,,-,yes (purple),yes,no,no
+51,GKGPCAPO_01431,q51,Ion-translocating oxidoreductase complex subunit C,rsxC_2,1.853975604,Up in Wt,ICMIMJ_03445,2Fe-2S iron-sulfur cluster binding domain-containing protein,rnfC,-,yes (purple),yes,no,no
+52,GKGPCAPO_01432,q52,Anaerobic sulfite reductase subunit B,asrB_1,1.633392363,Up in Wt,ICMIMJ_03446,FAD-binding FR-type domain-containing protein,,-,yes (purple),yes,no,no
+53,GKGPCAPO_01433,q53,Anaerobic sulfite reductase subunit A,asrA_1,1.605436306,Up in Wt,ICMIMJ_03447,4Fe-4S ferredoxin-type domain-containing protein,,-,yes (purple),yes,no,no
+54,GKGPCAPO_01434,q54,hypothetical protein,,1.601393182,Up in Wt,ICMIMJ_03448,4Fe-4S binding domain protein,,-,yes (purple),yes,no,no
+55,GKGPCAPO_01435,q55,hypothetical protein,,1.497927061,Up in Wt,ICMIMJ_03449,F420-non-reducing hydrogenase iron-sulfur subunit D domain-containing protein,frhD,-,yes (purple),yes,no,no
+56,GKGPCAPO_01436,q56,Ferredoxin-type protein NapF,napF_2,1.250874386,Up in Wt,ICMIMJ_03450,CoB--CoM heterodisulfide reductase iron-sulfur subunit A family protein,hdrA,-,yes (purple),yes,no,no
+57,GKGPCAPO_01489,q57,hypothetical protein,,-1.565007131,Up in Mutant,ICMIMJ_03503,ABC transporter substrate binding protein,,+,yes (other-yellow),yes,yes,yes
+58,GKGPCAPO_01490,q58,hypothetical protein,,-1.360539799,Up in Mutant,ICMIMJ_03504,"Branched-chain amino acid ABC transporter, permease protein",,+,yes (other-yellow),yes,yes,yes
+59,GKGPCAPO_01491,q59,ABC transporter ATP-binding protein YxdL,yxdL_1,-1.007572678,Up in Mutant,ICMIMJ_03505,Methionine import ATP-binding protein MetN,metN,+,yes (other-yellow),yes,yes,yes
+60,GKGPCAPO_01593,q60,ECF RNA polymerase sigma factor SigW,sigW_2,1.403443784,Up in Wt,ICMIMJ_00100,RNA polymerase sigma factor,,+,,,,
+61,GKGPCAPO_01605,q61,Bifunctional ligase/repressor BirA,birA_1,1.236165857,Up in Wt,ICMIMJ_00112,Bifunctional ligase/repressor BirA,birA,-,,,,
+62,GKGPCAPO_01694,q62,Protein GrpE,grpE,-1.193047201,Up in Mutant,ICMIMJ_00204,nucleotide exchange factor GrpE,grpE,-,no,no,no,no
+63,GKGPCAPO_01725,q63,hypothetical protein,,1.124416642,Up in Wt,ICMIMJ_00238,Conserved repeat domain,,+,,,,
+64,GKGPCAPO_01778,q64,putative zinc-type alcohol dehydrogenase-like protein YjmD,yjmD_2,-1.039127978,Up in Mutant,ICMIMJ_00291,Threonine dehydrogenase and related Zn-dependent dehydrogenases,tdh,+,yes (other-yellow),yes,yes,yes
+65,GKGPCAPO_01779,q65,hypothetical protein,,-1.366279923,Up in Mutant,ICMIMJ_00292,Lactoylglutathione lyase,gloA,+,yes (other-yellow),yes,yes,yes
+66,GKGPCAPO_01780,q66,Glucuronide carrier protein ,uidB,-1.160023515,Up in Mutant,ICMIMJ_00293,Major facilitator superfamily (MFS) profile domain-containing protein,melB,+,yes (other-yellow),yes,yes,yes
+67,GKGPCAPO_01781,q67,Fructokinase,scrK_1,-1.096129599,Up in Mutant,ICMIMJ_00294,5-dehydro-2-deoxygluconokinase,rbsK,+,yes (other-yellow),yes,yes,yes
+68,GKGPCAPO_01823,q68,N-substituted formamide deformylase,nfdA_1,1.238339236,Up in Wt,ICMIMJ_00337,N-substituted formamide deformylase,,-,,,,
+69,GKGPCAPO_01827,q69,hypothetical protein,,1.106719779,Up in Wt,ICMIMJ_00341,Serine protease HhoB,hhoB,-,,,,
+70,GKGPCAPO_01832,q70,Hydroxylamine reductase,hcp_1,1.622243959,Up in Wt,ICMIMJ_00346,hydroxylamine reductase,hcp,+,,,,
+71,GKGPCAPO_01833,q71,putative HTH-type transcriptional regulator YdjF,ydjF_1,1.569771742,Up in Wt,ICMIMJ_00347,Glycerol-3-phosphate regulon repressor,,+,,,,
+72,GKGPCAPO_01855,q72,Hydroxylamine reductase,hcp_2,2.322606212,Up in Wt,ICMIMJ_00369,hydroxylamine reductase,hcp,+,,,,
+73,GKGPCAPO_01890,q73,hypothetical protein,,1.479807126,Up in Wt,ICMIMJ_00405,Anaerobic ribonucleoside-triphosphate reductase activating protein,,-,,,,
+74,GKGPCAPO_01934,q74,ATP-dependent helicase/nuclease subunit A,addA,-1.260407417,Up in Mutant,ICMIMJ_00449,helicase-exonuclease AddAB subunit AddA,addA,-,no,no,no,no
+75,GKGPCAPO_02037,q75,Glutamate synthase [NADPH] small chain,gltB_2,-1.108571739,Up in Mutant,ICMIMJ_00554,Glutamate synthase [NADPH] small chain,,+,no,no,no,no
+76,GKGPCAPO_02039,q76,hypothetical protein,,-1.059011465,Up in Mutant,ICMIMJ_00556,ANTAR domain-containing protein,,+,no,no,no,no
+77,GKGPCAPO_02091,q77,hypothetical protein,,-1.220100595,Up in Mutant,ICMIMJ_00609,"Branched-chain amino acid ABC transporter, permease protein",,+,yes (other-yellow),no,yes,no
+78,GKGPCAPO_02092,q78,Choline transport ATP-binding protein OpuBA,opuBA,-1.101397361,Up in Mutant,ICMIMJ_00610,Methionine import ATP-binding protein MetN 2,metN,+,yes (other-yellow),no,yes,no
+79,GKGPCAPO_02158,q79,hypothetical protein,,1.182800322,Up in Wt,ICMIMJ_00676,Ferrous iron transport protein A,,-,,,,
+80,GKGPCAPO_02269,q80,putative ABC transporter permease protein,,1.042443226,Up in Wt,ICMIMJ_00787,Iron ABC transporter permease,,-,,,,
+81,GKGPCAPO_02311,q81,sn-glycerol-3-phosphate transport system permease protein UgpA,ugpA_3,-1.658016593,Up in Mutant,ICMIMJ_00830,sn-glycerol-3-phosphate transport system permease protein ugpA,ugpA,+,yes (black),yes,yes,yes
+82,GKGPCAPO_02312,q82,L-arabinose transport system permease protein AraQ,araQ_4,-1.339499541,Up in Mutant,ICMIMJ_00831,L-arabinose transport system permease protein AraQ,araQ,+,yes (black),yes,yes,yes
+83,GKGPCAPO_02315,q83,L-2-hydroxyglutarate dehydrogenase,lhgD,-2.412260319,Up in Mutant,ICMIMJ_00834,L-2-hydroxyglutarate oxidase LhgO,lhgO,+,yes (black),yes,yes,yes
+84,GKGPCAPO_02316,q84,Ferredoxin--NADP reductase,,-2.207124079,Up in Mutant,ICMIMJ_00835,Thioredoxin reductase,,+,yes (black),yes,yes,yes
+85,GKGPCAPO_02317,q85,hypothetical protein,,-2.438944118,Up in Mutant,ICMIMJ_00836,4Fe-4S Mo/W bis-MGD-type domain-containing protein,,+,yes (black),yes,yes,yes
+86,GKGPCAPO_02318,q86,Glycerophosphodiester phosphodiesterase,glpQ,-1.855627512,Up in Mutant,ICMIMJ_00837,Putative glycerophosphoryl diester phosphodiesterase 1,,+,yes (black),yes,yes,yes
+87,GKGPCAPO_02319,q87,putative oxidoreductase YjmC,yjmC_2,-1.818521214,Up in Mutant,ICMIMJ_00838,Uncharacterized oxidoreductase ybiC,ybiC,+,yes (black),yes,yes,yes
+88,GKGPCAPO_02326,q88,Coenzyme A disulfide reductase,cdr,-1.427320704,Up in Mutant,ICMIMJ_01232,hypothetical protein,,+,no,no,no,no
+89,GKGPCAPO_02327,q89,hypothetical protein,,-1.75195349,Up in Mutant,ICMIMJ_01233,4Fe-4S ferredoxin-type domain-containing protein,,+,no,no,no,no
+90,GKGPCAPO_02359,q90,Ectoine/5-hydroxyectoine TRAP transporter small permease protein UehB,uehB,-1.111102852,Up in Mutant,ICMIMJ_01265,TRAP transporter small permease,,+,yes (other-yellow),no,yes,no
+91,GKGPCAPO_02360,q91,hypothetical protein,,-1.098185118,Up in Mutant,ICMIMJ_01266,Neu5Ac permease,,+,yes (other-yellow),no,yes,no
+92,GKGPCAPO_02373,q92,putative Hsp20 family chaperone,,1.75203661,Up in Wt,ICMIMJ_01279,Hsp20/alpha crystallin family protein,,-,,,,
+93,GKGPCAPO_02455,q93,hypothetical protein,,-1.185283899,Up in Mutant,ICMIMJ_01361,ECF transporter S component,,-,yes (other-yellow),no,yes,no
+94,GKGPCAPO_02516,q94,hypothetical protein,,1.555923061,Up in Wt,ICMIMJ_01422,Defence against restriction A C-terminal domain-containing protein,,-,,,,
+95,GKGPCAPO_02520,q95,hypothetical protein,,2.587429302,Up in Wt,ICMIMJ_01426,putative endopeptidase p60,nlpC,-,,,,
+96,GKGPCAPO_02521,q96,hypothetical protein,,2.182695986,Up in Wt,ICMIMJ_01427,"VirB4-like conjugal transfer ATPase, CD1110 family",virB4,-,,,,
+97,GKGPCAPO_02523,q97,hypothetical protein,,1.414128641,Up in Wt,ICMIMJ_01429,DUF7007 domain-containing protein,,-,,,,
+98,GKGPCAPO_02542,q98,Flavodoxin,,1.604632675,Up in Wt,ICMIMJ_01449,flavodoxin,,-,,,,
+99,GKGPCAPO_02543,q99,hypothetical protein,,1.839957757,Up in Wt,ICMIMJ_01450,DUF3793 domain-containing protein,,-,,,,
+100,GKGPCAPO_02547,q100,hypothetical protein,,2.144383251,Up in Wt,ICMIMJ_01454,HD domain-containing protein,,+,,,,
+101,GKGPCAPO_02563,q101,putative Hsp20 family chaperone,,1.248750687,Up in Wt,ICMIMJ_01470,Hsp20 family chaperone,,-,,,,
+102,GKGPCAPO_02583,q102,hypothetical protein,,1.024992946,Up in Wt,ICMIMJ_01490,hypothetical protein,,-,,,,
+103,GKGPCAPO_02622,q103,Polyphosphate kinase,ppk_1,-1.202236963,Up in Mutant,ICMIMJ_01529,polyphosphate kinase 1,ppk1,-,no,no,no,no
+104,GKGPCAPO_02625,q104,Sucrose-6-phosphate hydrolase,scrB,-1.115179803,Up in Mutant,ICMIMJ_01532,Sucrose-6-phosphate hydrolase,,-,yes (light blue),no,no,no
+105,GKGPCAPO_02628,q105,hypothetical protein,,1.179984614,Up in Wt,ICMIMJ_01535,Stage II sporulation protein Q,,-,,,,
+106,GKGPCAPO_02634,q106,Methionine synthase,metH,-1.022593664,Up in Mutant,ICMIMJ_01541,Methionine synthase,,-,no,no,no,no
+107,GKGPCAPO_02678,q107,hypothetical protein,,-1.742045016,Up in Mutant,ICMIMJ_01585,Sugar phosphate isomerase/epimerase,,+,yes (other-yellow),yes,yes,yes
+108,GKGPCAPO_02679,q108,7-beta-hydroxy-3-oxochol-24-oyl-CoA 4-desaturase,baiH,-1.669140489,Up in Mutant,ICMIMJ_01586,NADH oxidase,,+,yes (other-yellow),yes,yes,yes
+109,GKGPCAPO_02680,q109,Shikimate dehydrogenase (NADP(+)),aroE_2,-1.824317874,Up in Mutant,ICMIMJ_01587,Shikimate dehydrogenase (NADP(+)),,+,yes (other-yellow),yes,yes,yes
+110,GKGPCAPO_02681,q110,Inner membrane transport protein YdiM,ydiM,-1.829592466,Up in Mutant,ICMIMJ_01588,Inner membrane transport protein ydiM,ydiM,+,yes (other-yellow),yes,yes,yes
+111,GKGPCAPO_02682,q111,hypothetical protein,,-1.573472045,Up in Mutant,ICMIMJ_01589,Benzoate transporter,,+,yes (other-yellow),yes,yes,yes
+112,GKGPCAPO_02683,q112,3-dehydroquinate dehydratase,aroD,-1.37524602,Up in Mutant,ICMIMJ_01590,3-dehydroquinate dehydratase,,-,yes (other-yellow),yes,yes,yes
+113,GKGPCAPO_02684,q113,Shikimate dehydrogenase (NADP(+)),aroE_3,-1.32469709,Up in Mutant,ICMIMJ_01591,shikimate dehydrogenase,,-,yes (other-yellow),yes,yes,yes
+114,GKGPCAPO_02685,q114,NADH oxidase,,-1.549428792,Up in Mutant,ICMIMJ_01592,NADH oxidase,,-,yes (other-yellow),yes,yes,yes
+115,GKGPCAPO_02787,q115,Anaerobic nitric oxide reductase flavorubredoxin,norV,-1.698974898,Up in Mutant,ICMIMJ_01693,Diflavin flavoprotein A 1,,+,no,no,no,no
+116,GKGPCAPO_02809,q116,hypothetical protein,,1.020460157,Up in Wt,ICMIMJ_01715,energy coupling factor transporter S component ThiW,thiW,+,,,,
+117,GKGPCAPO_02865,q117,hypothetical protein,,-1.302008129,Up in Mutant,ICMIMJ_01968,Cyclodextrin-binding protein,,+,no,no,no,no
+118,GKGPCAPO_02866,q118,Melibiose/raffinose/stachyose import permease protein MelD,melD_6,-1.452598728,Up in Mutant,ICMIMJ_01969,Lactose transport system permease protein LacF,lacF,+,yes (other-yellow),no,yes,no
+119,GKGPCAPO_02882,q119,Oleate hydratase,,1.28536032,Up in Wt,ICMIMJ_01985,oleate hydratase,,-,,,,
+120,GKGPCAPO_02883,q120,hypothetical protein,,1.357639382,Up in Wt,ICMIMJ_01986,putative dihydroxyacetone kinase regulator,,-,,,,
+121,GKGPCAPO_02916,q121,Formate--tetrahydrofolate ligase,fhs_2,-1.202345534,Up in Mutant,ICMIMJ_02019,formate--tetrahydrofolate ligase,mIS1,-,yes (brown),yes - WLP cluster,no,no
+122,GKGPCAPO_02979,q122,L-rhamnose mutarotase,rhaM,1.263015676,Up in Wt,ICMIMJ_02082,L-rhamnose 1-epimerase,,-,,,,
+123,GKGPCAPO_03038,q123,HTH-type transcriptional regulator MntR,mntR_2,1.07847239,Up in Wt,ICMIMJ_02142,metal-dependent transcriptional regulator,,+,,,,
+124,GKGPCAPO_03040,q124,hypothetical protein,,1.025196792,Up in Wt,ICMIMJ_02144,FIVAR domain-containing protein,,+,,,,
+125,GKGPCAPO_03041,q125,hypothetical protein,,1.257586882,Up in Wt,ICMIMJ_02145,NEAT domain-containing protein,,+,,,,
+126,GKGPCAPO_03121,q126,Erythronate-4-phosphate dehydrogenase,pdxB,-1.057256077,Up in Mutant,ICMIMJ_02225,D-3-phosphoglycerate dehydrogenase,,-,no,no,no,no
+127,GKGPCAPO_03122,q127,Phosphoserine aminotransferase,serC,-1.033411634,Up in Mutant,ICMIMJ_02226,3-phosphoserine/phosphohydroxythreonine transaminase,serC,-,no,no,no,no
+128,GKGPCAPO_03201,q128,6-phospho-beta-glucosidase BglA,bglA,-1.630300192,Up in Mutant,ICMIMJ_02522,6-phospho-beta-glucosidase BglA,bglA,-,yes (dark blue),yes,yes,yes
+129,GKGPCAPO_03202,q129,PTS system beta-glucoside-specific EIIBCA component,bglF_3,-2.445452052,Up in Mutant,ICMIMJ_02523,Beta-glucoside-specific PTS transporter subunit IIABC,,-,yes (dark blue),yes,yes,yes
+130,GKGPCAPO_03204,q130,hypothetical protein,,-1.069960417,Up in Mutant,ICMIMJ_02525,Transporter,,-,yes (dark blue),yes,yes,yes
+131,GKGPCAPO_03205,q131,putative FAD-linked oxidoreductase,,-1.319431813,Up in Mutant,ICMIMJ_02526,Putative FAD-linked oxidoreductase,,-,yes (dark blue),yes,yes,yes
+132,GKGPCAPO_03206,q132,Caffeyl-CoA reductase-Etf complex subunit CarE,carE,-1.203529942,Up in Mutant,ICMIMJ_02527,Acryloyl-CoA reductase electron transfer subunit beta,,-,yes (dark blue),yes,yes,yes
+133,GKGPCAPO_03207,q133,Acryloyl-CoA reductase electron transfer subunit gamma,acrB,-1.234113807,Up in Mutant,ICMIMJ_02528,Electron transfer flavoprotein small subunit,,-,yes (dark blue),yes,yes,yes
+134,GKGPCAPO_03214,q134,PTS system glucose-specific EIICBA component,ptsG,-1.393253024,Up in Mutant,ICMIMJ_02535,PTS system glucoside-specific EIICBA component,,+,yes (other-yellow),no,yes,no
+135,GKGPCAPO_03217,q135,hypothetical protein,,1.071535787,Up in Wt,ICMIMJ_02538,DUF1275 domain-containing protein,,+,,,,
+136,GKGPCAPO_03219,q136,hypothetical protein,,1.039373278,Up in Wt,ICMIMJ_02540,Threonine/serine exporter family protein,,-,,,,
+137,GKGPCAPO_03267,q137,hypothetical protein,,1.402173572,Up in Wt,ICMIMJ_02588,Helicase C-terminal domain-containing protein,,+,,,,
+138,GKGPCAPO_03292,q138,Nucleoid occlusion protein,noc_4,1.729654948,Up in Wt,ICMIMJ_02613,ParB/Sulfiredoxin domain-containing protein,spo0J,+,,,,
+139,GKGPCAPO_03294,q139,hypothetical protein,,1.726075997,Up in Wt,ICMIMJ_02615,DNA (cytosine-5-)-methyltransferase,dcm,+,,,,
+140,GKGPCAPO_03295,q140,hypothetical protein,,1.461028306,Up in Wt,ICMIMJ_02616,Antirestriction protein ArdA,ardA,+,,,,
+141,GKGPCAPO_03296,q141,hypothetical protein,,1.789574236,Up in Wt,ICMIMJ_02617,DUF3560 domain-containing protein,,+,,,,
+142,GKGPCAPO_03334,q142,hypothetical protein,,1.375783033,Up in Wt,ICMIMJ_02804,Virulence-associated protein E-like domain-containing protein,,-,,,,
+143,GKGPCAPO_03335,q143,DNA primase,dnaG_3,1.223150798,Up in Wt,ICMIMJ_02805,Zinc finger CHC2-type domain-containing protein,dnaG,-,,,,
+144,GKGPCAPO_03336,q144,hypothetical protein,,2.005213584,Up in Wt,ICMIMJ_02806,MobQ family relaxase,mobQ,-,,,,
+145,GKGPCAPO_03462,q145,23S ribosomal RNA (partial),,-1.667470493,Up in Mutant,NA,NA,NA,NA,no,no,no,no
+146,GKGPCAPO_03469,q146,23S ribosomal RNA (partial),,-1.077702374,Up in Mutant,NA,NA,NA,NA,no,no,no,no
+147,GKGPCAPO_03470,q147,16S ribosomal RNA,,-1.617485959,Up in Mutant,NA,NA,NA,NA,no,no,no,no
+148,GKGPCAPO_03507,q148,5S ribosomal RNA,,1.585754587,Up in Wt,NA,NA,NA,NA,,,,
