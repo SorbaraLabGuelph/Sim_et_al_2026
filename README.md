@@ -1,5 +1,5 @@
 # Sim_et_al_2026
-Analysis of Succinate Production in Blautia
+Repository for "Genetic manipulation of Blautia reveals a non-canonical pathway for succinate production"<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/b197d6a3-102d-4da3-a631-9627d40c001d" />
 
 
 Large File Links:
