@@ -1,9 +1,10 @@
 # Sim_et_al_2026
-Repository for "Genetic manipulation of Blautia reveals a non-canonical pathway for succinate production"
+Repository for "An essential role for an FlxABCD-HdrABC-fumarate reductase gene cluster in succinate
+production by gut-resident Blautia "
 
 Sim et al.R contains the relevant R script.  
 
-Additional Large File Links:
+Additional Large File Links: *Note* Links are to Dropbox - the Rdata files must be downloaded - no preview is available
 
 Sim et al Bakta Annotations:
 https://www.dropbox.com/scl/fi/fh6mvo8x7meppd3nblo1n/Sim_et_al_Isolate_Annotations.rdata?rlkey=cx3bvp86hb7owi6mwqaw80pbt&st=mb5jx1nq&dl=0
